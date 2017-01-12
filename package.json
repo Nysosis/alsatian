@@ -88,7 +88,7 @@
     "nyc": "^10.0.0",
     "rimraf": "^2.5.4",
     "tslint": "^4.0.0",
-    "typescript": "^2.0.3"
+    "typescript": "^2.1.5"
   },
   "dependencies": {
     "@types/glob": "^5.0.30",
